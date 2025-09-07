@@ -1,0 +1,14 @@
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/bin/Debug/net9.0/Example001_HelloConsole
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/bin/Debug/net9.0/Example001_HelloConsole.deps.json
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/bin/Debug/net9.0/Example001_HelloConsole.runtimeconfig.json
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/bin/Debug/net9.0/Example001_HelloConsole.dll
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/bin/Debug/net9.0/Example001_HelloConsole.pdb
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/obj/Debug/net9.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/obj/Debug/net9.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/obj/Debug/net9.0/Example001_HelloConsole.AssemblyInfo.cs
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/obj/Debug/net9.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/obj/Debug/net9.0/Example001_HelloConsole.dll
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/obj/Debug/net9.0/refint/Example001_HelloConsole.dll
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/obj/Debug/net9.0/Example001_HelloConsole.pdb
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/obj/Debug/net9.0/Example001_HelloConsole.genruntimeconfig.cache
+/Users/vatooto/Desktop/GB/Практика/Lesson1/Examples/Example001_HelloConsole/obj/Debug/net9.0/ref/Example001_HelloConsole.dll
