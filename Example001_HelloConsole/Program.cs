@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, beautiful world!");
+﻿Console.WriteLine("Hello, beautiful cam world!");
